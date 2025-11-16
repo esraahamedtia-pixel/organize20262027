@@ -1,0 +1,9 @@
+python-telegram-bot==20.3
+gspread
+oauth2client
+gunicorn
+img2pdf
+pytz
+google-api-python-client
+
+
